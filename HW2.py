@@ -3,7 +3,7 @@
 # By <Your Name>
 
 """
-Inputs, Processes, Outputs (IOP)
+Inputs, Processes, Outputs (IPO)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Input(s):
 Processes:
